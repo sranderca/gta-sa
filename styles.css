@@ -18,5 +18,12 @@ body {
     background-color: transparent;
     color: white;
     font-size: 25px;
-    font-family: 'Russo One', sans-serif;;
+    font-family: 'Russo One', sans-serif;
+}
+
+#boton-cargar {
+    background-color: transparent;
+    color: white;
+    font-size: 25px;
+    font-family: 'Russo One', sans-serif;
 }
