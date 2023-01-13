@@ -16,14 +16,7 @@ body {
     align-items: center;
 }
 
-#boton-iniciar {
-    background-color: transparent;
-    color: white;
-    font-size: 25px;
-    font-family: 'Russo One', sans-serif;
-}
-
-#boton-cargar {
+.boton-menu {
     background-color: transparent;
     color: white;
     font-size: 25px;
