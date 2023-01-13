@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Russo+One&display=swap');
 body {
     display: flex;
     justify-content: center;
@@ -19,6 +18,6 @@ body {
 .boton-menu {
     background-color: transparent;
     color: white;
-    font-size: 25px;
+    font-size: 20px;
     font-family: 'Russo One', sans-serif;
 }
